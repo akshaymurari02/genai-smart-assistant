@@ -1,0 +1,20 @@
+{
+  "name": "04-chats-vs-generatecontent",
+  "version": "1.0.0",
+  "description": "This module demonstrates the difference between:",
+  "main": "chat-demo.js",
+  "type": "module",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "dotenv": "^17.0.1"
+  }
+}

@@ -1,0 +1,10 @@
+Determine the user's intent from the following message and return structured JSON like:
+
+{
+  "intent": "",
+  "confidence": 0.9,
+  "entities": []
+}
+
+Message:
+[TEXT]

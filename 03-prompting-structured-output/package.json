@@ -1,0 +1,24 @@
+{
+  "name": "03-prompting-structured-output",
+  "version": "1.0.0",
+  "description": "This module focuses on:\r - Writing effective prompts to get clean, structured outputs from LLMs\r - Reusing prompt templates for consistent behavior\r - Returning formats like:\r   - ✅ JSON\r   - ✅ Bullet lists\r   - ✅ Markdown tables",
+  "main": "structured-runner.js",
+  "type": "module",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "openai": "^5.8.2"
+  },
+  "devDependencies": {}
+}

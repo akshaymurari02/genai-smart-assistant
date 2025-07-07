@@ -1,0 +1,7 @@
+From the text below, extract key people and return in a Markdown table.
+
+Format:
+| Name | Role | Organization |
+
+Text:
+[TEXT]

@@ -1,0 +1,11 @@
+Summarize the following article and return in this JSON format:
+
+{
+  "title": "",
+  "summary": "",
+  "topics": [],
+  "sentiment": ""
+}
+
+Article:
+[TEXT]

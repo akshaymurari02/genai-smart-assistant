@@ -1,0 +1,4 @@
+Extract 5–10 relevant keywords from the following text and return as a JSON array.
+
+Text:
+[TEXT]
