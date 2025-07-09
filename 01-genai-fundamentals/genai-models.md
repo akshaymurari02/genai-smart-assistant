@@ -102,3 +102,5 @@ These models learn patterns from large datasets and generate outputs that mimic 
 - [ ] Use embeddings to build simple similarity search
 
 ---
+
+explore tools lovable, google ai studio
