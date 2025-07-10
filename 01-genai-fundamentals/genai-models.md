@@ -103,4 +103,6 @@ These models learn patterns from large datasets and generate outputs that mimic 
 
 ---
 
-explore tools lovable, google ai studio
+** explore tools lovable, google ai studio
+
+** explore terminal ai tools like warp, gemeni-cli, claude cli.
